@@ -1,4 +1,4 @@
-## Artifact (software development)
+## [Artifact (software development)](https://github.com/YukunCao/GitDisk/blob/master/Concepts/%E5%B7%A5%E4%BB%B6%EF%BC%88%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%EF%BC%89.md)
 
 An **artifact** is one of many kinds of tangible by-products produced during the development of software. Some artifacts (e. g. , [use cases](), [class diagrams](), and other [Unified Modeling Language]() (UML) models, requirements and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself - such as project plans, business cases, and risk assessments.
 
